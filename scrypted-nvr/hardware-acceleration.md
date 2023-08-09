@@ -6,7 +6,7 @@ Scrypted NVR can leverage the [Neural Engine](https://www.makeuseof.com/what-is-
 
 ## NVIDIA and AMD
 
-The [Scrypted Desktop App](/desktop-application) can utilize discrete and integrated GPUs for accelerated transcoding, moiton, and object detection.
+The [Scrypted Desktop App](/desktop-application) can utilize discrete and integrated GPUs for accelerated transcoding, motion, and object detection.
 
 ## Google Coral
 
